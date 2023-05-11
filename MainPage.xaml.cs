@@ -16,6 +16,8 @@ using System.Threading.Tasks;
 using ToBinary;
 using Microsoft.Maui;
 
+
+
 namespace PassGen;
 
 public partial class MainPage : ContentPage
