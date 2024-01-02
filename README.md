@@ -13,4 +13,4 @@ PassGen is an **Open Source Password Generator** for Windows
 
 ### Building :
 You need to have the .NET 7 SDK, .NET MAUI workflows and Visual Studio 2022 to build the software.
-Open `passgen.sln` in Visual studio and simply build the software
+Open `Dynware's PassGen.sln` in Visual studio and simply build the software
