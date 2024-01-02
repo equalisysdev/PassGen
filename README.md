@@ -10,3 +10,7 @@ PassGen is an **Open Source Password Generator** for Windows
 ### To do :
 - MacOS Version
 - More control over all the characters
+
+### Building :
+You need to have the .NET 7 SDK, .NET MAUI workflows and Visual Studio 2022 to build the software.
+Open `passgen.sln` in Visual studio and simply build the software
